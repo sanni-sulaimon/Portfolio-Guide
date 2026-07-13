@@ -15,13 +15,14 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 |Project link| Area of Analysis | Project Description | Dashboard link |
 |------------|------------------|---------------------|----------------|
-
+|[Human Resources Analysis](https://github.com/sanni-sulaimon/Human-Resources-Analysis)|Data analysis, data cleaning and data transformation|I answered the questions relating to why an organization lacked visibility into workforce with 171 total headcount but only 118 active, and 47 exits is recorded| [Dashboard](https://github.com/sanni-sulaimon/Human-Resources-Analysis/blob/main/Screenshot%20(33).png) |
 
 
 ## Power Bi
 
 |Project link| Area of Analysis | Project Description |
 |------------|------------------|---------------------|
+|[US Hospitals](https://github.com/sanni-sulaimon/USA-hospital)| Hospitals analysis, condition analysis and billing analysis| I analysed the scattered data that is hard to interpret in raw form. Without a consolidated view, hospital administrators struggle to answer basic operational questions: which hospitals are overloaded, what conditions are most costly, whether patients are satisfied, and whether length of stay is trending up or down.|
 
 
 ## SQL
