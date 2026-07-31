@@ -28,3 +28,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## SQL
 |Project link| Area of Analysis | Project Description |
 |------------|------------------|---------------------|
+|[Stationery Store](https://github.com/sanni-sulaimon/Stationery-Store)|💰 Profitability — total profit ($1.09M) and profit by category/sub-category.|An interactive report for better track of sales performance focusing on products sold, payment method, Geographic breakdown, and month over month (MOM) growth rate.|
+| |📊 Sales Performance; total revenue ($4.15M), units sold (8,424), category breakdown|
+| |📈 Time Trends; monthly sales/profit patterns and Month-over-Month growth (2020–2025)
+| |👤 Customer Insights; top spenders ranked by total order value
+| |💳 Payment Behavior; transaction volume and revenue by payment method
+| |🗺️ Geographic Breakdown; top-performing states and cities
+| |🧹 Data Cleaning; deduplication, formatting fixes, validation, and correcting invalid references|
